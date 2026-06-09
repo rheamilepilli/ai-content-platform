@@ -1,7 +1,7 @@
 import ollama
 
 response = ollama.chat(
-    model="phi3",
+    model="qwen2.5",
     messages=[
         {
             "role": "user",
