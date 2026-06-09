@@ -1,7 +1,4 @@
 # ai-content-platform
-AI Content Platform
-
-
 An AI-powered content repurposing platform that converts long-form video content into social media posts.
 
 ## Features
